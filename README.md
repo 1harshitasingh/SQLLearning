@@ -1,0 +1,2 @@
+# SQLLearning
+solutions from hackerrank
